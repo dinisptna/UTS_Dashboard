@@ -1,0 +1,1001 @@
+Tanggal,Kota,Suhu,Curah Hujan,Kondisi Cuaca
+2023-01-01,Surabaya,33,28,Cerah
+2023-01-02,Bandung,22,39,Hujan Lebat
+2023-01-03,Bandung,34,52,Cerah
+2023-01-04,Yogyakarta,27,35,Hujan Lebat
+2023-01-05,Jakarta,32,128,Hujan Lebat
+2023-01-06,Jakarta,25,88,Hujan Ringan
+2023-01-07,Jakarta,23,13,Berawan
+2023-01-08,Yogyakarta,24,8,Cerah
+2023-01-09,Surabaya,32,16,Hujan Ringan
+2023-01-10,Jakarta,24,2,Berawan
+2023-01-11,Bandung,31,89,Berawan
+2023-01-12,Yogyakarta,21,89,Hujan Ringan
+2023-01-13,Bandung,31,30,Berawan
+2023-01-14,Jakarta,31,69,Berawan
+2023-01-15,Jakarta,27,85,Hujan Ringan
+2023-01-16,Yogyakarta,33,122,Hujan Ringan
+2023-01-17,Jakarta,23,147,Berawan
+2023-01-18,Surabaya,32,81,Cerah
+2023-01-19,Yogyakarta,22,150,Hujan Ringan
+2023-01-20,Jakarta,35,73,Hujan Ringan
+2023-01-21,Jakarta,35,50,Berawan
+2023-01-22,Surabaya,34,24,Cerah
+2023-01-23,Yogyakarta,28,71,Hujan Lebat
+2023-01-24,Surabaya,32,29,Hujan Lebat
+2023-01-25,Surabaya,20,113,Cerah
+2023-01-26,Bandung,28,76,Cerah
+2023-01-27,Yogyakarta,28,50,Hujan Lebat
+2023-01-28,Surabaya,31,39,Hujan Lebat
+2023-01-29,Yogyakarta,26,146,Berawan
+2023-01-30,Jakarta,30,36,Berawan
+2023-01-31,Bandung,26,110,Hujan Lebat
+2023-02-01,Surabaya,26,76,Hujan Ringan
+2023-02-02,Surabaya,30,69,Hujan Lebat
+2023-02-03,Jakarta,26,125,Berawan
+2023-02-04,Bandung,29,80,Hujan Ringan
+2023-02-05,Jakarta,31,59,Hujan Ringan
+2023-02-06,Surabaya,24,25,Cerah
+2023-02-07,Jakarta,35,53,Cerah
+2023-02-08,Yogyakarta,33,68,Hujan Lebat
+2023-02-09,Surabaya,34,46,Cerah
+2023-02-10,Jakarta,22,90,Hujan Ringan
+2023-02-11,Jakarta,26,83,Cerah
+2023-02-12,Surabaya,26,19,Hujan Ringan
+2023-02-13,Bandung,31,59,Hujan Lebat
+2023-02-14,Jakarta,25,40,Hujan Ringan
+2023-02-15,Yogyakarta,22,84,Hujan Lebat
+2023-02-16,Yogyakarta,21,123,Berawan
+2023-02-17,Yogyakarta,31,7,Cerah
+2023-02-18,Yogyakarta,32,145,Cerah
+2023-02-19,Yogyakarta,22,118,Berawan
+2023-02-20,Yogyakarta,29,47,Hujan Lebat
+2023-02-21,Jakarta,34,48,Hujan Ringan
+2023-02-22,Yogyakarta,33,51,Cerah
+2023-02-23,Jakarta,23,139,Berawan
+2023-02-24,Yogyakarta,26,55,Berawan
+2023-02-25,Yogyakarta,22,61,Hujan Lebat
+2023-02-26,Surabaya,29,94,Hujan Ringan
+2023-02-27,Surabaya,33,85,Berawan
+2023-02-28,Jakarta,24,62,Cerah
+2023-03-01,Yogyakarta,26,80,Hujan Lebat
+2023-03-02,Yogyakarta,30,11,Berawan
+2023-03-03,Jakarta,25,16,Hujan Ringan
+2023-03-04,Bandung,24,58,Berawan
+2023-03-05,Bandung,20,148,Hujan Lebat
+2023-03-06,Surabaya,27,56,Cerah
+2023-03-07,Bandung,32,39,Berawan
+2023-03-08,Surabaya,33,120,Cerah
+2023-03-09,Bandung,32,120,Hujan Ringan
+2023-03-10,Surabaya,34,110,Hujan Ringan
+2023-03-11,Yogyakarta,20,75,Hujan Ringan
+2023-03-12,Jakarta,27,11,Hujan Ringan
+2023-03-13,Yogyakarta,27,1,Cerah
+2023-03-14,Jakarta,31,43,Berawan
+2023-03-15,Yogyakarta,32,45,Berawan
+2023-03-16,Surabaya,28,72,Hujan Ringan
+2023-03-17,Jakarta,20,6,Hujan Ringan
+2023-03-18,Yogyakarta,33,55,Cerah
+2023-03-19,Yogyakarta,21,73,Hujan Lebat
+2023-03-20,Surabaya,29,8,Berawan
+2023-03-21,Yogyakarta,27,30,Hujan Ringan
+2023-03-22,Bandung,34,75,Hujan Ringan
+2023-03-23,Surabaya,24,25,Hujan Ringan
+2023-03-24,Bandung,31,39,Hujan Ringan
+2023-03-25,Jakarta,24,50,Hujan Ringan
+2023-03-26,Yogyakarta,26,19,Hujan Lebat
+2023-03-27,Surabaya,30,48,Hujan Ringan
+2023-03-28,Surabaya,25,108,Hujan Lebat
+2023-03-29,Jakarta,30,67,Cerah
+2023-03-30,Jakarta,30,79,Cerah
+2023-03-31,Jakarta,32,96,Hujan Ringan
+2023-04-01,Yogyakarta,34,10,Cerah
+2023-04-02,Bandung,30,36,Hujan Lebat
+2023-04-03,Bandung,25,117,Hujan Ringan
+2023-04-04,Jakarta,30,49,Cerah
+2023-04-05,Surabaya,21,38,Hujan Ringan
+2023-04-06,Bandung,23,16,Hujan Lebat
+2023-04-07,Jakarta,27,3,Hujan Lebat
+2023-04-08,Yogyakarta,25,91,Hujan Lebat
+2023-04-09,Bandung,26,25,Berawan
+2023-04-10,Bandung,23,63,Hujan Lebat
+2023-04-11,Jakarta,35,92,Hujan Ringan
+2023-04-12,Surabaya,26,35,Hujan Lebat
+2023-04-13,Bandung,31,131,Hujan Ringan
+2023-04-14,Jakarta,28,127,Hujan Lebat
+2023-04-15,Surabaya,30,15,Hujan Ringan
+2023-04-16,Yogyakarta,24,132,Berawan
+2023-04-17,Surabaya,24,75,Berawan
+2023-04-18,Bandung,35,137,Hujan Lebat
+2023-04-19,Jakarta,22,81,Hujan Lebat
+2023-04-20,Surabaya,29,99,Hujan Lebat
+2023-04-21,Jakarta,27,45,Hujan Ringan
+2023-04-22,Bandung,29,107,Berawan
+2023-04-23,Yogyakarta,34,14,Berawan
+2023-04-24,Bandung,21,82,Cerah
+2023-04-25,Jakarta,23,113,Berawan
+2023-04-26,Bandung,35,146,Hujan Lebat
+2023-04-27,Yogyakarta,33,97,Cerah
+2023-04-28,Bandung,32,121,Hujan Ringan
+2023-04-29,Jakarta,22,21,Berawan
+2023-04-30,Bandung,27,114,Hujan Ringan
+2023-05-01,Surabaya,34,7,Cerah
+2023-05-02,Bandung,27,87,Cerah
+2023-05-03,Yogyakarta,30,14,Cerah
+2023-05-04,Yogyakarta,20,17,Hujan Ringan
+2023-05-05,Surabaya,34,31,Hujan Lebat
+2023-05-06,Yogyakarta,26,112,Cerah
+2023-05-07,Surabaya,34,31,Hujan Ringan
+2023-05-08,Surabaya,31,66,Cerah
+2023-05-09,Bandung,30,1,Hujan Lebat
+2023-05-10,Jakarta,24,101,Berawan
+2023-05-11,Jakarta,27,121,Cerah
+2023-05-12,Bandung,29,28,Hujan Lebat
+2023-05-13,Bandung,25,24,Hujan Lebat
+2023-05-14,Surabaya,21,121,Hujan Lebat
+2023-05-15,Bandung,28,91,Berawan
+2023-05-16,Jakarta,26,79,Hujan Lebat
+2023-05-17,Jakarta,22,108,Berawan
+2023-05-18,Yogyakarta,21,110,Hujan Lebat
+2023-05-19,Yogyakarta,22,104,Hujan Lebat
+2023-05-20,Yogyakarta,21,103,Hujan Ringan
+2023-05-21,Bandung,35,108,Berawan
+2023-05-22,Surabaya,20,41,Hujan Ringan
+2023-05-23,Surabaya,22,42,Hujan Lebat
+2023-05-24,Surabaya,30,63,Berawan
+2023-05-25,Yogyakarta,29,103,Berawan
+2023-05-26,Jakarta,33,5,Berawan
+2023-05-27,Surabaya,20,18,Hujan Lebat
+2023-05-28,Surabaya,24,59,Hujan Lebat
+2023-05-29,Jakarta,21,100,Hujan Lebat
+2023-05-30,Jakarta,22,100,Berawan
+2023-05-31,Surabaya,31,113,Cerah
+2023-06-01,Surabaya,22,8,Hujan Ringan
+2023-06-02,Yogyakarta,23,30,Berawan
+2023-06-03,Jakarta,34,57,Hujan Lebat
+2023-06-04,Jakarta,25,21,Cerah
+2023-06-05,Bandung,32,65,Berawan
+2023-06-06,Jakarta,30,11,Berawan
+2023-06-07,Surabaya,26,111,Cerah
+2023-06-08,Bandung,27,117,Cerah
+2023-06-09,Bandung,20,52,Berawan
+2023-06-10,Jakarta,31,114,Berawan
+2023-06-11,Jakarta,28,0,Cerah
+2023-06-12,Jakarta,20,122,Berawan
+2023-06-13,Bandung,30,133,Cerah
+2023-06-14,Surabaya,23,110,Cerah
+2023-06-15,Yogyakarta,23,97,Hujan Ringan
+2023-06-16,Yogyakarta,25,62,Hujan Lebat
+2023-06-17,Jakarta,20,123,Hujan Ringan
+2023-06-18,Yogyakarta,22,43,Hujan Ringan
+2023-06-19,Surabaya,35,64,Hujan Ringan
+2023-06-20,Bandung,22,123,Hujan Lebat
+2023-06-21,Yogyakarta,25,62,Berawan
+2023-06-22,Jakarta,28,82,Cerah
+2023-06-23,Yogyakarta,24,117,Cerah
+2023-06-24,Bandung,20,25,Hujan Ringan
+2023-06-25,Jakarta,27,89,Berawan
+2023-06-26,Surabaya,35,145,Hujan Lebat
+2023-06-27,Yogyakarta,30,11,Hujan Ringan
+2023-06-28,Bandung,33,94,Hujan Lebat
+2023-06-29,Jakarta,34,89,Cerah
+2023-06-30,Surabaya,24,57,Berawan
+2023-07-01,Jakarta,33,64,Hujan Ringan
+2023-07-02,Jakarta,31,62,Hujan Ringan
+2023-07-03,Yogyakarta,35,85,Hujan Ringan
+2023-07-04,Jakarta,25,22,Berawan
+2023-07-05,Bandung,35,99,Cerah
+2023-07-06,Surabaya,20,133,Hujan Lebat
+2023-07-07,Yogyakarta,33,146,Hujan Ringan
+2023-07-08,Jakarta,20,118,Hujan Lebat
+2023-07-09,Surabaya,33,115,Hujan Ringan
+2023-07-10,Surabaya,29,142,Berawan
+2023-07-11,Jakarta,32,101,Cerah
+2023-07-12,Yogyakarta,33,6,Hujan Ringan
+2023-07-13,Surabaya,27,134,Hujan Ringan
+2023-07-14,Yogyakarta,21,69,Hujan Lebat
+2023-07-15,Surabaya,24,79,Cerah
+2023-07-16,Surabaya,31,95,Cerah
+2023-07-17,Jakarta,32,25,Cerah
+2023-07-18,Surabaya,28,33,Hujan Ringan
+2023-07-19,Jakarta,22,63,Cerah
+2023-07-20,Surabaya,32,90,Berawan
+2023-07-21,Yogyakarta,33,141,Cerah
+2023-07-22,Bandung,35,127,Hujan Ringan
+2023-07-23,Jakarta,31,101,Cerah
+2023-07-24,Jakarta,27,37,Berawan
+2023-07-25,Jakarta,20,131,Cerah
+2023-07-26,Yogyakarta,35,46,Hujan Ringan
+2023-07-27,Yogyakarta,26,100,Hujan Ringan
+2023-07-28,Jakarta,30,2,Hujan Lebat
+2023-07-29,Bandung,35,54,Cerah
+2023-07-30,Jakarta,28,89,Berawan
+2023-07-31,Surabaya,22,91,Hujan Ringan
+2023-08-01,Jakarta,23,94,Berawan
+2023-08-02,Jakarta,24,87,Cerah
+2023-08-03,Bandung,29,113,Hujan Ringan
+2023-08-04,Surabaya,23,130,Hujan Lebat
+2023-08-05,Yogyakarta,31,74,Berawan
+2023-08-06,Bandung,24,97,Berawan
+2023-08-07,Yogyakarta,22,0,Hujan Lebat
+2023-08-08,Bandung,26,53,Hujan Lebat
+2023-08-09,Jakarta,22,138,Cerah
+2023-08-10,Jakarta,33,17,Hujan Lebat
+2023-08-11,Surabaya,27,46,Berawan
+2023-08-12,Surabaya,29,32,Berawan
+2023-08-13,Surabaya,23,102,Berawan
+2023-08-14,Jakarta,35,135,Berawan
+2023-08-15,Jakarta,23,115,Berawan
+2023-08-16,Bandung,29,83,Cerah
+2023-08-17,Bandung,29,53,Berawan
+2023-08-18,Yogyakarta,30,139,Hujan Lebat
+2023-08-19,Yogyakarta,32,26,Hujan Lebat
+2023-08-20,Jakarta,25,124,Hujan Lebat
+2023-08-21,Surabaya,32,18,Hujan Ringan
+2023-08-22,Yogyakarta,34,126,Cerah
+2023-08-23,Yogyakarta,29,98,Hujan Ringan
+2023-08-24,Jakarta,29,63,Cerah
+2023-08-25,Yogyakarta,26,37,Berawan
+2023-08-26,Jakarta,23,35,Hujan Ringan
+2023-08-27,Surabaya,21,137,Cerah
+2023-08-28,Bandung,25,98,Berawan
+2023-08-29,Surabaya,34,120,Hujan Ringan
+2023-08-30,Yogyakarta,20,135,Berawan
+2023-08-31,Bandung,35,130,Cerah
+2023-09-01,Yogyakarta,27,82,Cerah
+2023-09-02,Bandung,27,132,Cerah
+2023-09-03,Surabaya,20,67,Hujan Lebat
+2023-09-04,Surabaya,35,99,Hujan Ringan
+2023-09-05,Surabaya,34,53,Hujan Lebat
+2023-09-06,Surabaya,27,45,Berawan
+2023-09-07,Surabaya,30,141,Hujan Lebat
+2023-09-08,Jakarta,30,54,Hujan Lebat
+2023-09-09,Yogyakarta,20,72,Hujan Ringan
+2023-09-10,Bandung,29,135,Hujan Ringan
+2023-09-11,Yogyakarta,28,115,Cerah
+2023-09-12,Jakarta,33,104,Berawan
+2023-09-13,Yogyakarta,34,6,Hujan Ringan
+2023-09-14,Jakarta,26,139,Berawan
+2023-09-15,Bandung,21,107,Hujan Lebat
+2023-09-16,Bandung,22,90,Cerah
+2023-09-17,Jakarta,21,35,Cerah
+2023-09-18,Jakarta,24,137,Cerah
+2023-09-19,Yogyakarta,21,17,Cerah
+2023-09-20,Jakarta,35,71,Cerah
+2023-09-21,Jakarta,25,22,Hujan Lebat
+2023-09-22,Bandung,23,127,Hujan Lebat
+2023-09-23,Bandung,28,120,Hujan Ringan
+2023-09-24,Surabaya,31,147,Cerah
+2023-09-25,Bandung,31,60,Berawan
+2023-09-26,Bandung,31,47,Hujan Ringan
+2023-09-27,Bandung,28,5,Berawan
+2023-09-28,Yogyakarta,28,88,Hujan Ringan
+2023-09-29,Bandung,25,4,Cerah
+2023-09-30,Jakarta,24,88,Cerah
+2023-10-01,Yogyakarta,31,10,Hujan Ringan
+2023-10-02,Yogyakarta,28,80,Hujan Lebat
+2023-10-03,Bandung,32,64,Berawan
+2023-10-04,Surabaya,35,117,Berawan
+2023-10-05,Bandung,21,64,Hujan Ringan
+2023-10-06,Surabaya,20,147,Hujan Lebat
+2023-10-07,Surabaya,30,84,Hujan Ringan
+2023-10-08,Yogyakarta,29,103,Berawan
+2023-10-09,Jakarta,29,21,Berawan
+2023-10-10,Surabaya,20,141,Hujan Ringan
+2023-10-11,Jakarta,31,46,Berawan
+2023-10-12,Surabaya,33,104,Berawan
+2023-10-13,Bandung,24,28,Hujan Ringan
+2023-10-14,Bandung,24,36,Hujan Ringan
+2023-10-15,Surabaya,21,10,Hujan Lebat
+2023-10-16,Yogyakarta,33,105,Cerah
+2023-10-17,Surabaya,21,17,Cerah
+2023-10-18,Yogyakarta,20,89,Berawan
+2023-10-19,Jakarta,24,78,Berawan
+2023-10-20,Surabaya,33,90,Cerah
+2023-10-21,Jakarta,30,95,Cerah
+2023-10-22,Jakarta,34,141,Berawan
+2023-10-23,Jakarta,26,57,Cerah
+2023-10-24,Surabaya,35,39,Hujan Ringan
+2023-10-25,Surabaya,20,70,Hujan Lebat
+2023-10-26,Jakarta,25,105,Hujan Ringan
+2023-10-27,Jakarta,31,89,Hujan Ringan
+2023-10-28,Surabaya,33,54,Berawan
+2023-10-29,Bandung,29,101,Berawan
+2023-10-30,Surabaya,35,69,Hujan Lebat
+2023-10-31,Yogyakarta,21,129,Cerah
+2023-11-01,Yogyakarta,31,143,Hujan Ringan
+2023-11-02,Surabaya,30,132,Berawan
+2023-11-03,Yogyakarta,32,17,Cerah
+2023-11-04,Jakarta,33,59,Hujan Lebat
+2023-11-05,Jakarta,32,16,Hujan Ringan
+2023-11-06,Yogyakarta,35,14,Hujan Lebat
+2023-11-07,Bandung,29,73,Hujan Lebat
+2023-11-08,Bandung,33,11,Cerah
+2023-11-09,Jakarta,22,121,Hujan Ringan
+2023-11-10,Yogyakarta,35,89,Cerah
+2023-11-11,Surabaya,25,117,Berawan
+2023-11-12,Jakarta,31,150,Hujan Lebat
+2023-11-13,Jakarta,23,46,Berawan
+2023-11-14,Yogyakarta,29,143,Hujan Lebat
+2023-11-15,Jakarta,29,127,Cerah
+2023-11-16,Bandung,22,36,Hujan Ringan
+2023-11-17,Jakarta,22,107,Cerah
+2023-11-18,Yogyakarta,35,119,Berawan
+2023-11-19,Jakarta,20,80,Berawan
+2023-11-20,Bandung,23,45,Cerah
+2023-11-21,Jakarta,22,21,Cerah
+2023-11-22,Jakarta,27,41,Hujan Lebat
+2023-11-23,Yogyakarta,20,111,Hujan Lebat
+2023-11-24,Yogyakarta,31,103,Hujan Ringan
+2023-11-25,Bandung,26,40,Hujan Lebat
+2023-11-26,Yogyakarta,23,120,Hujan Ringan
+2023-11-27,Yogyakarta,33,80,Hujan Ringan
+2023-11-28,Bandung,23,56,Hujan Lebat
+2023-11-29,Bandung,20,81,Hujan Ringan
+2023-11-30,Surabaya,30,96,Hujan Lebat
+2023-12-01,Yogyakarta,27,31,Berawan
+2023-12-02,Yogyakarta,29,23,Hujan Lebat
+2023-12-03,Jakarta,32,76,Berawan
+2023-12-04,Jakarta,34,28,Hujan Ringan
+2023-12-05,Jakarta,29,137,Cerah
+2023-12-06,Bandung,27,114,Hujan Ringan
+2023-12-07,Jakarta,32,53,Hujan Ringan
+2023-12-08,Yogyakarta,34,65,Hujan Lebat
+2023-12-09,Bandung,21,63,Hujan Ringan
+2023-12-10,Bandung,30,147,Hujan Ringan
+2023-12-11,Jakarta,32,88,Hujan Ringan
+2023-12-12,Yogyakarta,32,80,Berawan
+2023-12-13,Yogyakarta,29,135,Cerah
+2023-12-14,Surabaya,22,86,Berawan
+2023-12-15,Surabaya,27,143,Hujan Ringan
+2023-12-16,Yogyakarta,28,8,Hujan Ringan
+2023-12-17,Yogyakarta,25,40,Berawan
+2023-12-18,Surabaya,23,23,Hujan Ringan
+2023-12-19,Surabaya,30,42,Hujan Lebat
+2023-12-20,Jakarta,33,127,Hujan Lebat
+2023-12-21,Surabaya,25,42,Cerah
+2023-12-22,Yogyakarta,20,83,Cerah
+2023-12-23,Surabaya,29,103,Cerah
+2023-12-24,Surabaya,28,85,Cerah
+2023-12-25,Bandung,22,148,Berawan
+2023-12-26,Yogyakarta,34,9,Cerah
+2023-12-27,Bandung,28,128,Berawan
+2023-12-28,Jakarta,23,41,Berawan
+2023-12-29,Surabaya,33,45,Cerah
+2023-12-30,Jakarta,27,59,Hujan Lebat
+2023-12-31,Surabaya,33,68,Berawan
+2024-01-01,Bandung,27,57,Hujan Ringan
+2024-01-02,Yogyakarta,25,121,Hujan Ringan
+2024-01-03,Bandung,20,59,Hujan Ringan
+2024-01-04,Jakarta,30,82,Hujan Ringan
+2024-01-05,Yogyakarta,25,16,Hujan Lebat
+2024-01-06,Bandung,34,74,Berawan
+2024-01-07,Surabaya,21,12,Hujan Lebat
+2024-01-08,Surabaya,23,68,Hujan Lebat
+2024-01-09,Yogyakarta,20,4,Hujan Lebat
+2024-01-10,Surabaya,20,20,Cerah
+2024-01-11,Surabaya,34,1,Hujan Ringan
+2024-01-12,Bandung,28,127,Hujan Ringan
+2024-01-13,Bandung,29,102,Hujan Lebat
+2024-01-14,Yogyakarta,29,117,Hujan Ringan
+2024-01-15,Jakarta,22,45,Hujan Ringan
+2024-01-16,Jakarta,25,71,Berawan
+2024-01-17,Jakarta,21,47,Hujan Lebat
+2024-01-18,Jakarta,26,101,Hujan Ringan
+2024-01-19,Jakarta,30,106,Hujan Lebat
+2024-01-20,Jakarta,23,71,Hujan Lebat
+2024-01-21,Surabaya,30,121,Cerah
+2024-01-22,Surabaya,33,47,Cerah
+2024-01-23,Jakarta,29,106,Hujan Ringan
+2024-01-24,Bandung,21,47,Berawan
+2024-01-25,Surabaya,35,29,Berawan
+2024-01-26,Yogyakarta,28,34,Berawan
+2024-01-27,Surabaya,27,88,Berawan
+2024-01-28,Jakarta,31,24,Hujan Lebat
+2024-01-29,Surabaya,28,131,Hujan Lebat
+2024-01-30,Jakarta,31,42,Hujan Lebat
+2024-01-31,Surabaya,31,101,Hujan Ringan
+2024-02-01,Surabaya,24,126,Cerah
+2024-02-02,Bandung,35,121,Hujan Lebat
+2024-02-03,Jakarta,26,37,Cerah
+2024-02-04,Bandung,21,41,Hujan Ringan
+2024-02-05,Jakarta,26,65,Hujan Ringan
+2024-02-06,Bandung,23,71,Cerah
+2024-02-07,Bandung,21,36,Cerah
+2024-02-08,Yogyakarta,29,63,Berawan
+2024-02-09,Bandung,22,89,Hujan Lebat
+2024-02-10,Jakarta,29,140,Hujan Lebat
+2024-02-11,Jakarta,29,144,Hujan Ringan
+2024-02-12,Yogyakarta,27,41,Berawan
+2024-02-13,Surabaya,27,133,Hujan Lebat
+2024-02-14,Yogyakarta,24,146,Hujan Ringan
+2024-02-15,Surabaya,21,37,Hujan Lebat
+2024-02-16,Surabaya,32,54,Hujan Lebat
+2024-02-17,Jakarta,32,125,Hujan Ringan
+2024-02-18,Bandung,26,23,Hujan Ringan
+2024-02-19,Bandung,35,128,Berawan
+2024-02-20,Surabaya,20,98,Hujan Lebat
+2024-02-21,Bandung,32,60,Cerah
+2024-02-22,Jakarta,31,18,Hujan Lebat
+2024-02-23,Jakarta,21,99,Berawan
+2024-02-24,Yogyakarta,28,85,Berawan
+2024-02-25,Surabaya,32,78,Cerah
+2024-02-26,Bandung,23,102,Berawan
+2024-02-27,Jakarta,22,138,Cerah
+2024-02-28,Bandung,34,38,Hujan Lebat
+2024-02-29,Jakarta,34,54,Hujan Lebat
+2024-03-01,Jakarta,35,75,Cerah
+2024-03-02,Surabaya,31,82,Cerah
+2024-03-03,Yogyakarta,35,146,Cerah
+2024-03-04,Bandung,33,23,Cerah
+2024-03-05,Surabaya,28,50,Cerah
+2024-03-06,Jakarta,25,108,Cerah
+2024-03-07,Jakarta,34,8,Hujan Ringan
+2024-03-08,Jakarta,34,33,Cerah
+2024-03-09,Bandung,32,25,Cerah
+2024-03-10,Jakarta,22,0,Hujan Ringan
+2024-03-11,Surabaya,20,39,Hujan Ringan
+2024-03-12,Bandung,27,72,Hujan Lebat
+2024-03-13,Jakarta,24,93,Berawan
+2024-03-14,Bandung,26,144,Berawan
+2024-03-15,Yogyakarta,24,24,Hujan Lebat
+2024-03-16,Bandung,31,34,Berawan
+2024-03-17,Jakarta,31,58,Cerah
+2024-03-18,Surabaya,24,96,Hujan Lebat
+2024-03-19,Yogyakarta,23,106,Hujan Ringan
+2024-03-20,Yogyakarta,34,80,Cerah
+2024-03-21,Surabaya,26,140,Hujan Ringan
+2024-03-22,Surabaya,20,140,Hujan Lebat
+2024-03-23,Yogyakarta,30,73,Cerah
+2024-03-24,Yogyakarta,21,144,Hujan Ringan
+2024-03-25,Bandung,35,133,Berawan
+2024-03-26,Jakarta,27,136,Hujan Lebat
+2024-03-27,Bandung,20,61,Hujan Ringan
+2024-03-28,Yogyakarta,20,88,Hujan Ringan
+2024-03-29,Jakarta,20,51,Hujan Ringan
+2024-03-30,Yogyakarta,20,87,Hujan Ringan
+2024-03-31,Bandung,24,31,Berawan
+2024-04-01,Bandung,26,49,Hujan Ringan
+2024-04-02,Jakarta,24,13,Berawan
+2024-04-03,Yogyakarta,22,16,Berawan
+2024-04-04,Yogyakarta,22,11,Berawan
+2024-04-05,Surabaya,24,3,Hujan Ringan
+2024-04-06,Surabaya,20,130,Hujan Ringan
+2024-04-07,Surabaya,26,99,Hujan Ringan
+2024-04-08,Surabaya,32,50,Berawan
+2024-04-09,Jakarta,32,15,Hujan Lebat
+2024-04-10,Yogyakarta,34,119,Berawan
+2024-04-11,Bandung,22,57,Cerah
+2024-04-12,Jakarta,30,140,Cerah
+2024-04-13,Bandung,29,105,Cerah
+2024-04-14,Yogyakarta,29,106,Hujan Lebat
+2024-04-15,Bandung,33,108,Hujan Lebat
+2024-04-16,Surabaya,23,136,Berawan
+2024-04-17,Yogyakarta,25,146,Cerah
+2024-04-18,Surabaya,35,71,Hujan Lebat
+2024-04-19,Yogyakarta,24,139,Hujan Ringan
+2024-04-20,Jakarta,21,13,Hujan Lebat
+2024-04-21,Bandung,21,91,Cerah
+2024-04-22,Yogyakarta,34,82,Berawan
+2024-04-23,Surabaya,26,149,Berawan
+2024-04-24,Yogyakarta,20,16,Cerah
+2024-04-25,Bandung,28,49,Cerah
+2024-04-26,Jakarta,31,134,Berawan
+2024-04-27,Bandung,31,37,Hujan Ringan
+2024-04-28,Surabaya,20,92,Hujan Ringan
+2024-04-29,Jakarta,29,65,Berawan
+2024-04-30,Yogyakarta,31,17,Hujan Lebat
+2024-05-01,Jakarta,26,95,Cerah
+2024-05-02,Bandung,25,9,Hujan Ringan
+2024-05-03,Bandung,34,132,Hujan Lebat
+2024-05-04,Bandung,35,7,Hujan Ringan
+2024-05-05,Yogyakarta,27,27,Cerah
+2024-05-06,Jakarta,22,69,Cerah
+2024-05-07,Jakarta,24,105,Berawan
+2024-05-08,Jakarta,31,60,Hujan Lebat
+2024-05-09,Jakarta,30,48,Berawan
+2024-05-10,Yogyakarta,21,103,Hujan Ringan
+2024-05-11,Surabaya,34,6,Hujan Ringan
+2024-05-12,Bandung,24,45,Berawan
+2024-05-13,Jakarta,28,57,Hujan Lebat
+2024-05-14,Jakarta,25,115,Cerah
+2024-05-15,Surabaya,22,73,Hujan Lebat
+2024-05-16,Yogyakarta,27,82,Berawan
+2024-05-17,Bandung,27,13,Cerah
+2024-05-18,Jakarta,29,144,Hujan Ringan
+2024-05-19,Bandung,35,109,Hujan Ringan
+2024-05-20,Bandung,30,3,Cerah
+2024-05-21,Jakarta,33,77,Berawan
+2024-05-22,Surabaya,28,77,Berawan
+2024-05-23,Surabaya,30,13,Hujan Lebat
+2024-05-24,Bandung,24,32,Berawan
+2024-05-25,Jakarta,24,41,Hujan Ringan
+2024-05-26,Yogyakarta,27,49,Berawan
+2024-05-27,Jakarta,29,37,Cerah
+2024-05-28,Bandung,22,142,Cerah
+2024-05-29,Yogyakarta,22,148,Hujan Ringan
+2024-05-30,Surabaya,24,47,Hujan Ringan
+2024-05-31,Yogyakarta,32,35,Berawan
+2024-06-01,Jakarta,35,20,Hujan Ringan
+2024-06-02,Surabaya,27,123,Cerah
+2024-06-03,Bandung,33,116,Hujan Lebat
+2024-06-04,Jakarta,26,30,Hujan Lebat
+2024-06-05,Jakarta,27,95,Hujan Lebat
+2024-06-06,Bandung,31,127,Hujan Ringan
+2024-06-07,Jakarta,29,106,Berawan
+2024-06-08,Jakarta,35,144,Cerah
+2024-06-09,Yogyakarta,29,123,Hujan Lebat
+2024-06-10,Bandung,21,108,Berawan
+2024-06-11,Yogyakarta,23,131,Berawan
+2024-06-12,Jakarta,22,79,Hujan Lebat
+2024-06-13,Surabaya,23,22,Cerah
+2024-06-14,Jakarta,25,52,Hujan Ringan
+2024-06-15,Bandung,20,14,Cerah
+2024-06-16,Yogyakarta,20,122,Hujan Lebat
+2024-06-17,Surabaya,23,142,Berawan
+2024-06-18,Yogyakarta,25,12,Hujan Lebat
+2024-06-19,Jakarta,21,35,Hujan Ringan
+2024-06-20,Surabaya,24,44,Berawan
+2024-06-21,Yogyakarta,34,4,Hujan Ringan
+2024-06-22,Bandung,20,127,Berawan
+2024-06-23,Bandung,35,8,Hujan Ringan
+2024-06-24,Jakarta,30,138,Berawan
+2024-06-25,Bandung,30,123,Hujan Ringan
+2024-06-26,Bandung,35,86,Cerah
+2024-06-27,Yogyakarta,23,123,Hujan Lebat
+2024-06-28,Yogyakarta,24,37,Berawan
+2024-06-29,Surabaya,23,118,Berawan
+2024-06-30,Jakarta,26,47,Cerah
+2024-07-01,Surabaya,30,75,Hujan Lebat
+2024-07-02,Yogyakarta,26,96,Berawan
+2024-07-03,Jakarta,21,125,Berawan
+2024-07-04,Jakarta,23,131,Cerah
+2024-07-05,Surabaya,20,22,Hujan Ringan
+2024-07-06,Yogyakarta,26,92,Hujan Lebat
+2024-07-07,Bandung,21,13,Cerah
+2024-07-08,Yogyakarta,31,97,Hujan Ringan
+2024-07-09,Bandung,32,94,Hujan Ringan
+2024-07-10,Jakarta,32,112,Cerah
+2024-07-11,Jakarta,20,48,Hujan Lebat
+2024-07-12,Yogyakarta,29,115,Hujan Ringan
+2024-07-13,Bandung,26,97,Hujan Lebat
+2024-07-14,Surabaya,26,32,Berawan
+2024-07-15,Jakarta,34,101,Berawan
+2024-07-16,Bandung,27,46,Cerah
+2024-07-17,Yogyakarta,23,148,Cerah
+2024-07-18,Bandung,31,139,Cerah
+2024-07-19,Surabaya,33,114,Berawan
+2024-07-20,Yogyakarta,24,128,Cerah
+2024-07-21,Bandung,30,57,Hujan Ringan
+2024-07-22,Bandung,24,128,Cerah
+2024-07-23,Surabaya,25,91,Berawan
+2024-07-24,Yogyakarta,26,80,Hujan Lebat
+2024-07-25,Yogyakarta,30,3,Berawan
+2024-07-26,Yogyakarta,32,9,Hujan Ringan
+2024-07-27,Surabaya,20,147,Hujan Ringan
+2024-07-28,Surabaya,26,1,Berawan
+2024-07-29,Bandung,20,24,Berawan
+2024-07-30,Surabaya,25,22,Cerah
+2024-07-31,Jakarta,35,142,Hujan Ringan
+2024-08-01,Bandung,35,10,Hujan Lebat
+2024-08-02,Surabaya,30,64,Berawan
+2024-08-03,Bandung,31,5,Hujan Ringan
+2024-08-04,Jakarta,33,74,Berawan
+2024-08-05,Yogyakarta,31,91,Berawan
+2024-08-06,Bandung,29,44,Cerah
+2024-08-07,Jakarta,20,80,Hujan Ringan
+2024-08-08,Bandung,24,93,Hujan Ringan
+2024-08-09,Surabaya,20,25,Cerah
+2024-08-10,Yogyakarta,28,21,Berawan
+2024-08-11,Jakarta,27,70,Cerah
+2024-08-12,Bandung,26,133,Cerah
+2024-08-13,Bandung,22,16,Berawan
+2024-08-14,Jakarta,26,131,Berawan
+2024-08-15,Surabaya,27,7,Hujan Ringan
+2024-08-16,Jakarta,24,122,Berawan
+2024-08-17,Jakarta,23,51,Berawan
+2024-08-18,Surabaya,32,79,Hujan Ringan
+2024-08-19,Jakarta,33,71,Berawan
+2024-08-20,Yogyakarta,28,22,Hujan Lebat
+2024-08-21,Yogyakarta,21,44,Cerah
+2024-08-22,Jakarta,35,87,Berawan
+2024-08-23,Surabaya,30,33,Hujan Ringan
+2024-08-24,Yogyakarta,22,103,Hujan Ringan
+2024-08-25,Bandung,22,17,Hujan Ringan
+2024-08-26,Bandung,32,12,Hujan Ringan
+2024-08-27,Surabaya,30,115,Cerah
+2024-08-28,Yogyakarta,28,67,Cerah
+2024-08-29,Yogyakarta,30,19,Berawan
+2024-08-30,Surabaya,32,37,Hujan Ringan
+2024-08-31,Yogyakarta,29,132,Berawan
+2024-09-01,Jakarta,27,103,Cerah
+2024-09-02,Surabaya,26,116,Hujan Ringan
+2024-09-03,Bandung,22,47,Berawan
+2024-09-04,Bandung,29,64,Cerah
+2024-09-05,Surabaya,30,83,Hujan Ringan
+2024-09-06,Bandung,25,113,Hujan Lebat
+2024-09-07,Yogyakarta,21,46,Hujan Ringan
+2024-09-08,Jakarta,32,62,Cerah
+2024-09-09,Jakarta,33,5,Hujan Ringan
+2024-09-10,Bandung,23,24,Berawan
+2024-09-11,Surabaya,21,35,Hujan Ringan
+2024-09-12,Surabaya,35,33,Berawan
+2024-09-13,Bandung,25,144,Hujan Lebat
+2024-09-14,Jakarta,26,33,Hujan Ringan
+2024-09-15,Yogyakarta,20,110,Berawan
+2024-09-16,Bandung,28,96,Hujan Ringan
+2024-09-17,Yogyakarta,30,77,Berawan
+2024-09-18,Surabaya,21,106,Berawan
+2024-09-19,Bandung,31,126,Berawan
+2024-09-20,Jakarta,32,30,Hujan Lebat
+2024-09-21,Yogyakarta,29,61,Cerah
+2024-09-22,Yogyakarta,30,58,Hujan Ringan
+2024-09-23,Bandung,34,57,Berawan
+2024-09-24,Jakarta,24,103,Hujan Ringan
+2024-09-25,Surabaya,33,146,Cerah
+2024-09-26,Surabaya,31,128,Hujan Ringan
+2024-09-27,Jakarta,23,117,Cerah
+2024-09-28,Yogyakarta,33,85,Cerah
+2024-09-29,Yogyakarta,35,53,Hujan Lebat
+2024-09-30,Jakarta,31,66,Berawan
+2024-10-01,Jakarta,33,20,Cerah
+2024-10-02,Surabaya,34,1,Hujan Ringan
+2024-10-03,Yogyakarta,24,10,Hujan Lebat
+2024-10-04,Jakarta,33,48,Cerah
+2024-10-05,Bandung,35,130,Cerah
+2024-10-06,Jakarta,22,8,Berawan
+2024-10-07,Yogyakarta,28,108,Cerah
+2024-10-08,Surabaya,23,71,Berawan
+2024-10-09,Surabaya,32,149,Hujan Ringan
+2024-10-10,Surabaya,34,60,Hujan Ringan
+2024-10-11,Bandung,31,62,Cerah
+2024-10-12,Surabaya,29,5,Berawan
+2024-10-13,Surabaya,24,27,Hujan Ringan
+2024-10-14,Yogyakarta,20,39,Berawan
+2024-10-15,Jakarta,30,71,Hujan Lebat
+2024-10-16,Yogyakarta,21,9,Hujan Lebat
+2024-10-17,Yogyakarta,28,94,Hujan Ringan
+2024-10-18,Surabaya,27,59,Berawan
+2024-10-19,Yogyakarta,27,34,Cerah
+2024-10-20,Yogyakarta,20,94,Hujan Lebat
+2024-10-21,Yogyakarta,20,120,Hujan Ringan
+2024-10-22,Yogyakarta,27,26,Hujan Lebat
+2024-10-23,Surabaya,25,74,Hujan Ringan
+2024-10-24,Surabaya,29,117,Berawan
+2024-10-25,Bandung,23,2,Berawan
+2024-10-26,Bandung,30,38,Hujan Lebat
+2024-10-27,Jakarta,29,62,Berawan
+2024-10-28,Jakarta,25,17,Hujan Lebat
+2024-10-29,Yogyakarta,31,139,Hujan Ringan
+2024-10-30,Jakarta,31,110,Cerah
+2024-10-31,Jakarta,20,42,Hujan Lebat
+2024-11-01,Jakarta,25,130,Hujan Ringan
+2024-11-02,Surabaya,25,130,Cerah
+2024-11-03,Yogyakarta,29,143,Berawan
+2024-11-04,Surabaya,26,145,Berawan
+2024-11-05,Yogyakarta,35,72,Hujan Lebat
+2024-11-06,Jakarta,34,144,Cerah
+2024-11-07,Surabaya,28,119,Berawan
+2024-11-08,Bandung,27,25,Cerah
+2024-11-09,Surabaya,29,111,Cerah
+2024-11-10,Bandung,24,40,Cerah
+2024-11-11,Jakarta,26,52,Berawan
+2024-11-12,Surabaya,28,140,Hujan Lebat
+2024-11-13,Bandung,27,107,Berawan
+2024-11-14,Yogyakarta,34,62,Cerah
+2024-11-15,Bandung,26,16,Cerah
+2024-11-16,Bandung,28,91,Cerah
+2024-11-17,Bandung,27,137,Hujan Ringan
+2024-11-18,Yogyakarta,26,2,Berawan
+2024-11-19,Bandung,25,9,Hujan Lebat
+2024-11-20,Bandung,32,114,Cerah
+2024-11-21,Yogyakarta,32,86,Hujan Lebat
+2024-11-22,Jakarta,26,89,Hujan Lebat
+2024-11-23,Surabaya,20,141,Cerah
+2024-11-24,Jakarta,35,35,Hujan Ringan
+2024-11-25,Yogyakarta,26,7,Hujan Lebat
+2024-11-26,Surabaya,22,133,Hujan Lebat
+2024-11-27,Jakarta,25,17,Cerah
+2024-11-28,Jakarta,32,76,Hujan Ringan
+2024-11-29,Surabaya,35,97,Berawan
+2024-11-30,Bandung,23,100,Hujan Lebat
+2024-12-01,Surabaya,30,10,Hujan Lebat
+2024-12-02,Yogyakarta,30,0,Hujan Ringan
+2024-12-03,Surabaya,32,19,Berawan
+2024-12-04,Bandung,25,22,Cerah
+2024-12-05,Bandung,29,98,Berawan
+2024-12-06,Bandung,34,49,Hujan Lebat
+2024-12-07,Bandung,26,30,Hujan Ringan
+2024-12-08,Surabaya,29,74,Berawan
+2024-12-09,Surabaya,26,138,Hujan Ringan
+2024-12-10,Yogyakarta,20,100,Berawan
+2024-12-11,Jakarta,30,22,Hujan Lebat
+2024-12-12,Surabaya,25,54,Berawan
+2024-12-13,Surabaya,20,53,Cerah
+2024-12-14,Surabaya,34,21,Hujan Ringan
+2024-12-15,Yogyakarta,34,131,Hujan Lebat
+2024-12-16,Yogyakarta,32,20,Hujan Ringan
+2024-12-17,Surabaya,24,121,Cerah
+2024-12-18,Surabaya,35,13,Cerah
+2024-12-19,Jakarta,22,89,Hujan Lebat
+2024-12-20,Jakarta,31,52,Cerah
+2024-12-21,Jakarta,33,98,Hujan Ringan
+2024-12-22,Jakarta,24,5,Cerah
+2024-12-23,Yogyakarta,28,69,Berawan
+2024-12-24,Yogyakarta,27,103,Cerah
+2024-12-25,Yogyakarta,33,16,Hujan Ringan
+2024-12-26,Bandung,28,130,Berawan
+2024-12-27,Jakarta,30,25,Berawan
+2024-12-28,Jakarta,29,124,Hujan Ringan
+2024-12-29,Yogyakarta,33,96,Hujan Ringan
+2024-12-30,Yogyakarta,28,16,Cerah
+2024-12-31,Bandung,32,103,Hujan Ringan
+2025-01-01,Yogyakarta,30,36,Hujan Ringan
+2025-01-02,Surabaya,29,125,Cerah
+2025-01-03,Bandung,33,38,Hujan Ringan
+2025-01-04,Jakarta,26,30,Hujan Ringan
+2025-01-05,Bandung,27,60,Hujan Lebat
+2025-01-06,Surabaya,21,27,Cerah
+2025-01-07,Bandung,28,53,Cerah
+2025-01-08,Yogyakarta,31,44,Berawan
+2025-01-09,Bandung,21,29,Hujan Lebat
+2025-01-10,Bandung,21,14,Cerah
+2025-01-11,Bandung,31,38,Berawan
+2025-01-12,Surabaya,35,147,Cerah
+2025-01-13,Surabaya,26,24,Berawan
+2025-01-14,Surabaya,24,143,Cerah
+2025-01-15,Jakarta,34,9,Cerah
+2025-01-16,Bandung,20,145,Berawan
+2025-01-17,Bandung,24,58,Cerah
+2025-01-18,Bandung,20,60,Hujan Lebat
+2025-01-19,Bandung,33,10,Hujan Ringan
+2025-01-20,Yogyakarta,22,87,Cerah
+2025-01-21,Yogyakarta,25,45,Cerah
+2025-01-22,Yogyakarta,26,18,Hujan Ringan
+2025-01-23,Surabaya,32,5,Hujan Ringan
+2025-01-24,Bandung,25,69,Berawan
+2025-01-25,Bandung,30,101,Cerah
+2025-01-26,Bandung,24,14,Cerah
+2025-01-27,Bandung,31,46,Hujan Ringan
+2025-01-28,Yogyakarta,32,26,Hujan Lebat
+2025-01-29,Jakarta,28,81,Cerah
+2025-01-30,Jakarta,21,64,Hujan Ringan
+2025-01-31,Bandung,23,9,Hujan Lebat
+2025-02-01,Surabaya,25,45,Cerah
+2025-02-02,Jakarta,24,17,Hujan Lebat
+2025-02-03,Bandung,25,132,Berawan
+2025-02-04,Surabaya,27,102,Hujan Lebat
+2025-02-05,Surabaya,29,19,Hujan Ringan
+2025-02-06,Bandung,28,104,Hujan Ringan
+2025-02-07,Surabaya,22,64,Cerah
+2025-02-08,Bandung,33,70,Hujan Lebat
+2025-02-09,Yogyakarta,20,1,Cerah
+2025-02-10,Bandung,22,73,Hujan Lebat
+2025-02-11,Jakarta,22,18,Hujan Lebat
+2025-02-12,Bandung,20,12,Hujan Lebat
+2025-02-13,Surabaya,34,116,Berawan
+2025-02-14,Bandung,25,113,Hujan Lebat
+2025-02-15,Yogyakarta,22,69,Hujan Lebat
+2025-02-16,Yogyakarta,33,3,Hujan Lebat
+2025-02-17,Bandung,25,53,Cerah
+2025-02-18,Jakarta,22,64,Cerah
+2025-02-19,Surabaya,33,129,Hujan Ringan
+2025-02-20,Yogyakarta,31,99,Hujan Ringan
+2025-02-21,Yogyakarta,21,73,Cerah
+2025-02-22,Bandung,35,31,Hujan Lebat
+2025-02-23,Yogyakarta,35,103,Hujan Ringan
+2025-02-24,Surabaya,22,75,Berawan
+2025-02-25,Bandung,29,54,Hujan Ringan
+2025-02-26,Yogyakarta,33,88,Berawan
+2025-02-27,Jakarta,35,54,Hujan Lebat
+2025-02-28,Surabaya,20,96,Cerah
+2025-03-01,Jakarta,34,101,Cerah
+2025-03-02,Yogyakarta,28,125,Berawan
+2025-03-03,Jakarta,34,135,Hujan Lebat
+2025-03-04,Jakarta,26,137,Hujan Lebat
+2025-03-05,Jakarta,30,82,Berawan
+2025-03-06,Jakarta,34,83,Berawan
+2025-03-07,Jakarta,29,127,Cerah
+2025-03-08,Yogyakarta,25,68,Hujan Lebat
+2025-03-09,Surabaya,21,149,Hujan Ringan
+2025-03-10,Bandung,27,66,Hujan Lebat
+2025-03-11,Yogyakarta,28,56,Hujan Lebat
+2025-03-12,Jakarta,22,129,Cerah
+2025-03-13,Surabaya,21,98,Hujan Lebat
+2025-03-14,Bandung,25,24,Hujan Ringan
+2025-03-15,Jakarta,26,78,Cerah
+2025-03-16,Yogyakarta,23,54,Hujan Ringan
+2025-03-17,Yogyakarta,24,143,Hujan Lebat
+2025-03-18,Jakarta,32,14,Hujan Ringan
+2025-03-19,Yogyakarta,29,10,Hujan Lebat
+2025-03-20,Surabaya,26,6,Berawan
+2025-03-21,Bandung,21,150,Hujan Lebat
+2025-03-22,Jakarta,23,110,Berawan
+2025-03-23,Bandung,22,21,Hujan Lebat
+2025-03-24,Yogyakarta,21,33,Berawan
+2025-03-25,Jakarta,33,8,Cerah
+2025-03-26,Bandung,24,105,Hujan Ringan
+2025-03-27,Bandung,23,134,Cerah
+2025-03-28,Surabaya,25,89,Berawan
+2025-03-29,Bandung,33,127,Cerah
+2025-03-30,Bandung,34,118,Hujan Lebat
+2025-03-31,Surabaya,31,10,Cerah
+2025-04-01,Surabaya,20,85,Cerah
+2025-04-02,Surabaya,25,75,Hujan Ringan
+2025-04-03,Surabaya,29,127,Hujan Lebat
+2025-04-04,Bandung,24,113,Hujan Ringan
+2025-04-05,Yogyakarta,34,129,Hujan Ringan
+2025-04-06,Yogyakarta,34,64,Hujan Ringan
+2025-04-07,Jakarta,35,76,Hujan Ringan
+2025-04-08,Jakarta,32,13,Berawan
+2025-04-09,Bandung,25,39,Berawan
+2025-04-10,Surabaya,35,56,Berawan
+2025-04-11,Yogyakarta,27,48,Hujan Lebat
+2025-04-12,Bandung,20,125,Hujan Ringan
+2025-04-13,Jakarta,28,46,Berawan
+2025-04-14,Surabaya,27,67,Hujan Lebat
+2025-04-15,Surabaya,22,57,Cerah
+2025-04-16,Yogyakarta,31,68,Hujan Lebat
+2025-04-17,Surabaya,25,128,Cerah
+2025-04-18,Jakarta,26,21,Hujan Ringan
+2025-04-19,Surabaya,30,71,Hujan Ringan
+2025-04-20,Jakarta,28,65,Berawan
+2025-04-21,Yogyakarta,25,18,Berawan
+2025-04-22,Yogyakarta,25,91,Cerah
+2025-04-23,Jakarta,28,127,Berawan
+2025-04-24,Jakarta,32,136,Hujan Ringan
+2025-04-25,Jakarta,22,54,Berawan
+2025-04-26,Jakarta,33,12,Hujan Ringan
+2025-04-27,Yogyakarta,34,69,Berawan
+2025-04-28,Jakarta,26,115,Hujan Ringan
+2025-04-29,Surabaya,25,141,Berawan
+2025-04-30,Surabaya,31,6,Cerah
+2025-05-01,Jakarta,24,146,Hujan Lebat
+2025-05-02,Jakarta,25,86,Berawan
+2025-05-03,Jakarta,24,0,Cerah
+2025-05-04,Surabaya,25,55,Hujan Lebat
+2025-05-05,Bandung,32,30,Hujan Ringan
+2025-05-06,Bandung,20,41,Hujan Lebat
+2025-05-07,Yogyakarta,35,132,Hujan Ringan
+2025-05-08,Bandung,33,133,Hujan Lebat
+2025-05-09,Bandung,32,31,Hujan Lebat
+2025-05-10,Yogyakarta,34,141,Berawan
+2025-05-11,Jakarta,30,133,Cerah
+2025-05-12,Jakarta,29,31,Hujan Ringan
+2025-05-13,Bandung,25,73,Cerah
+2025-05-14,Jakarta,21,124,Hujan Ringan
+2025-05-15,Yogyakarta,29,126,Cerah
+2025-05-16,Yogyakarta,31,14,Hujan Ringan
+2025-05-17,Yogyakarta,20,131,Hujan Ringan
+2025-05-18,Jakarta,20,140,Hujan Lebat
+2025-05-19,Yogyakarta,27,149,Hujan Ringan
+2025-05-20,Yogyakarta,35,37,Berawan
+2025-05-21,Surabaya,32,71,Hujan Ringan
+2025-05-22,Jakarta,34,138,Berawan
+2025-05-23,Jakarta,24,48,Berawan
+2025-05-24,Bandung,28,111,Berawan
+2025-05-25,Bandung,25,54,Cerah
+2025-05-26,Jakarta,24,93,Hujan Lebat
+2025-05-27,Bandung,34,88,Hujan Lebat
+2025-05-28,Bandung,30,46,Hujan Lebat
+2025-05-29,Bandung,26,58,Hujan Ringan
+2025-05-30,Bandung,20,142,Hujan Lebat
+2025-05-31,Jakarta,33,121,Berawan
+2025-06-01,Surabaya,23,58,Hujan Ringan
+2025-06-02,Bandung,26,41,Hujan Lebat
+2025-06-03,Jakarta,26,32,Hujan Ringan
+2025-06-04,Bandung,21,71,Hujan Lebat
+2025-06-05,Yogyakarta,31,60,Hujan Lebat
+2025-06-06,Jakarta,23,140,Hujan Ringan
+2025-06-07,Yogyakarta,31,62,Cerah
+2025-06-08,Yogyakarta,34,63,Berawan
+2025-06-09,Surabaya,23,80,Cerah
+2025-06-10,Surabaya,26,114,Hujan Lebat
+2025-06-11,Surabaya,34,4,Berawan
+2025-06-12,Yogyakarta,22,143,Berawan
+2025-06-13,Yogyakarta,21,126,Cerah
+2025-06-14,Bandung,31,7,Cerah
+2025-06-15,Bandung,35,121,Hujan Ringan
+2025-06-16,Bandung,31,38,Berawan
+2025-06-17,Bandung,22,84,Hujan Ringan
+2025-06-18,Bandung,33,34,Berawan
+2025-06-19,Yogyakarta,35,89,Hujan Ringan
+2025-06-20,Surabaya,34,92,Cerah
+2025-06-21,Surabaya,31,138,Berawan
+2025-06-22,Jakarta,26,129,Berawan
+2025-06-23,Yogyakarta,25,15,Hujan Lebat
+2025-06-24,Yogyakarta,35,96,Berawan
+2025-06-25,Surabaya,35,2,Hujan Ringan
+2025-06-26,Jakarta,25,130,Berawan
+2025-06-27,Surabaya,34,16,Berawan
+2025-06-28,Bandung,25,27,Cerah
+2025-06-29,Jakarta,25,88,Hujan Lebat
+2025-06-30,Surabaya,29,14,Hujan Ringan
+2025-07-01,Bandung,27,44,Berawan
+2025-07-02,Jakarta,27,139,Hujan Lebat
+2025-07-03,Yogyakarta,30,92,Cerah
+2025-07-04,Jakarta,26,19,Cerah
+2025-07-05,Bandung,35,32,Hujan Lebat
+2025-07-06,Bandung,21,32,Berawan
+2025-07-07,Surabaya,32,23,Hujan Ringan
+2025-07-08,Bandung,34,130,Hujan Ringan
+2025-07-09,Yogyakarta,32,17,Cerah
+2025-07-10,Yogyakarta,23,110,Berawan
+2025-07-11,Yogyakarta,25,26,Cerah
+2025-07-12,Jakarta,20,125,Hujan Ringan
+2025-07-13,Yogyakarta,20,54,Cerah
+2025-07-14,Yogyakarta,29,127,Berawan
+2025-07-15,Bandung,33,108,Hujan Ringan
+2025-07-16,Surabaya,31,24,Hujan Lebat
+2025-07-17,Bandung,28,9,Hujan Lebat
+2025-07-18,Jakarta,25,40,Berawan
+2025-07-19,Yogyakarta,32,87,Cerah
+2025-07-20,Jakarta,25,88,Hujan Ringan
+2025-07-21,Bandung,21,140,Berawan
+2025-07-22,Yogyakarta,34,81,Berawan
+2025-07-23,Bandung,22,33,Hujan Ringan
+2025-07-24,Yogyakarta,28,107,Hujan Lebat
+2025-07-25,Yogyakarta,21,96,Hujan Ringan
+2025-07-26,Yogyakarta,31,99,Cerah
+2025-07-27,Surabaya,35,101,Berawan
+2025-07-28,Bandung,33,116,Berawan
+2025-07-29,Bandung,35,69,Berawan
+2025-07-30,Jakarta,28,1,Berawan
+2025-07-31,Yogyakarta,20,67,Hujan Ringan
+2025-08-01,Jakarta,31,109,Hujan Ringan
+2025-08-02,Bandung,22,29,Hujan Ringan
+2025-08-03,Surabaya,31,66,Hujan Ringan
+2025-08-04,Jakarta,27,77,Berawan
+2025-08-05,Jakarta,28,113,Cerah
+2025-08-06,Bandung,23,103,Cerah
+2025-08-07,Yogyakarta,28,26,Hujan Lebat
+2025-08-08,Yogyakarta,34,59,Berawan
+2025-08-09,Yogyakarta,32,25,Hujan Ringan
+2025-08-10,Surabaya,28,64,Cerah
+2025-08-11,Bandung,32,83,Hujan Ringan
+2025-08-12,Surabaya,20,11,Hujan Lebat
+2025-08-13,Surabaya,33,60,Cerah
+2025-08-14,Surabaya,32,115,Hujan Ringan
+2025-08-15,Jakarta,30,116,Hujan Lebat
+2025-08-16,Jakarta,28,111,Berawan
+2025-08-17,Jakarta,24,93,Hujan Ringan
+2025-08-18,Bandung,26,134,Cerah
+2025-08-19,Surabaya,29,128,Hujan Ringan
+2025-08-20,Bandung,28,36,Cerah
+2025-08-21,Yogyakarta,26,94,Cerah
+2025-08-22,Bandung,25,67,Hujan Lebat
+2025-08-23,Bandung,21,12,Berawan
+2025-08-24,Yogyakarta,21,125,Cerah
+2025-08-25,Jakarta,21,126,Cerah
+2025-08-26,Jakarta,31,129,Hujan Lebat
+2025-08-27,Jakarta,27,64,Hujan Ringan
+2025-08-28,Bandung,34,46,Berawan
+2025-08-29,Jakarta,32,49,Hujan Lebat
+2025-08-30,Surabaya,22,132,Hujan Lebat
+2025-08-31,Yogyakarta,32,70,Hujan Lebat
+2025-09-01,Surabaya,27,121,Cerah
+2025-09-02,Surabaya,35,107,Cerah
+2025-09-03,Bandung,21,48,Berawan
+2025-09-04,Jakarta,20,27,Hujan Ringan
+2025-09-05,Bandung,24,9,Hujan Ringan
+2025-09-06,Bandung,23,111,Cerah
+2025-09-07,Surabaya,26,8,Hujan Ringan
+2025-09-08,Surabaya,27,32,Cerah
+2025-09-09,Surabaya,32,111,Hujan Ringan
+2025-09-10,Jakarta,29,116,Hujan Ringan
+2025-09-11,Surabaya,25,71,Hujan Lebat
+2025-09-12,Bandung,23,78,Hujan Lebat
+2025-09-13,Bandung,23,58,Berawan
+2025-09-14,Surabaya,29,71,Cerah
+2025-09-15,Bandung,30,135,Hujan Lebat
+2025-09-16,Yogyakarta,21,35,Berawan
+2025-09-17,Jakarta,29,125,Cerah
+2025-09-18,Yogyakarta,25,21,Cerah
+2025-09-19,Bandung,35,141,Hujan Lebat
+2025-09-20,Jakarta,31,32,Berawan
+2025-09-21,Jakarta,33,6,Hujan Ringan
+2025-09-22,Yogyakarta,24,103,Hujan Ringan
+2025-09-23,Yogyakarta,21,66,Berawan
+2025-09-24,Bandung,33,34,Cerah
+2025-09-25,Surabaya,27,106,Cerah
+2025-09-26,Jakarta,34,47,Hujan Lebat
